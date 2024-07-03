@@ -7,12 +7,12 @@ assignees: dulrandunith
 
 ---
 
-User Story
-As a Restaurant owner
-I need website
-So that i could show my customers what products i sell
+### User Story
+As a [type of user],
+I need [some goal],
+So that [some reason].
 
 ### Acceptance Criteria
-Given it should include all ala carte menu
-When on 10thjune
-Then the customers will get to choose and order should be set to my phone
+Given [context],
+When [action],
+Then [outcome].
